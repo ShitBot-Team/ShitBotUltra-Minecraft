@@ -1,11 +1,3 @@
-<!--
-ShitBotUltra-Minecraft
-Copyright (C) 2026 ShitBot-Team and contributors.
-Project: https://github.com/ShitBot-Team/ShitBotUltra
-Source: https://github.com/ShitBot-Team/ShitBotUltra-Minecraft
-SPDX-License-Identifier: AGPL-3.0-only
--->
-
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
@@ -667,3 +659,11 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+Project copyright and source information
+
+ShitBotUltra-Minecraft
+Copyright (C) 2026 ShitBot-Team and contributors.
+Project: https://github.com/ShitBot-Team/ShitBotUltra
+Source: https://github.com/ShitBot-Team/ShitBotUltra-Minecraft
+SPDX-License-Identifier: AGPL-3.0-only
