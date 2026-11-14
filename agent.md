@@ -1,7 +1,5 @@
-# Minecraft Agent 入口
+# Minecraft 代理阅读导航
 
-先阅读本仓库的 [plan.md](plan.md)，再读取 [Core 共享 Agent 规则](https://github.com/ShitBot-Team/ShitBotUltra/blob/main/agent.md)和[贡献指南](https://github.com/ShitBot-Team/ShitBotUltra/blob/main/CONTRIBUTING.md)。这些规则适用于本仓库，公共内容只在 Core 维护。
+实际执行入口是本仓库 [AGENTS.md](AGENTS.md)，任务索引是 [plan.md](plan.md)。公共工作规范在 [Core AGENTS.md](https://github.com/ShitBot-Team/ShitBotUltra/blob/main/AGENTS.md)，同级克隆可读取 ../ShitBotUltra/AGENTS.md。
 
-同级克隆时可直接读取 `../ShitBotUltra/agent.md`、`../ShitBotUltra/CONTRIBUTING.md` 及其引用文件；无法读取时明确说明缺失，不自行编造规则。
-
-本仓库负责 Java 游戏平台薄适配器，根包固定为 `shitbotteam.ultra.minecraft`。保留事件、快照、登录结果应用、游戏动作和平台线程调度；机器人、业务数据库、图片渲染归 Core。不同平台依赖与 bStats 集成分别处理，不冒用项目 ID。当前仅做规划，README 后续再写。
+本文件只保留旧链接入口，不重复维护规则。按任务引用 Core 计划；本阶段只写文档，不写代码、不运行测试或构建。
